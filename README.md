@@ -11,7 +11,7 @@ to create well responsive frontend website pages.
   - Installation
   - Troubleshooting and FAQ
 
-
+ 
 
 ## Requirements
 
